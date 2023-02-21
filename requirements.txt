@@ -1,0 +1,13 @@
+SQLAlchemy
+fastapi
+pydantic
+alembic
+uvicorn
+pydantic[email,dotenv]
+starlette
+emails
+click
+requests
+asgi_correlation_id
+fastapi_utils
+wheel
